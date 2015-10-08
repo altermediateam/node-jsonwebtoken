@@ -19,7 +19,7 @@
     "url": "https://github.com/auth0/node-jsonwebtoken/issues"
   },
   "dependencies": {
-    "jws": "^3.0.0",
+    "jws": "git+https://eb708036120f694b0de488a25525bd73ea3c6b04:x-oauth-basic@github.com/altermediateam/node-jws.git",
     "ms": "^0.7.1"
   },
   "devDependencies": {
